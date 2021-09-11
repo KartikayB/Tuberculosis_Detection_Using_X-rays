@@ -7,11 +7,11 @@ Using Chest X-Rays and/or CT Scans, we can detect the abnormalities that might h
 In this project, we are focusing on Tuberculosis with the aim to not only reduce the workload on the medical facilities during the current scenario of Covid-19 but also, by using this early diagnosis technique prevent a confusion between a suspected Covid-19 and a suspected Tuberculosis patient.   
 
 ## Possible approaches/methods   
-   :star: Classification using VGG-16
-   :star: Classification using Convolutional Neural Network (CNN) Model
-   :star2: Classification using fast-ai deployment with resnet-50[1] Model
+   :star: Classification using VGG-16   
+   :star: Classification using Convolutional Neural Network (CNN) Model   
+   :star2: Classification using fast-ai deployment with resnet-50[1] Model   
 
-> For this project, we have used the resnet-50[1] Model
+> **For this project, we have used the resnet-50[1] Model**
 
 ## Results Achieved and Conclusion   
 
